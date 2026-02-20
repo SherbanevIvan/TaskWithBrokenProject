@@ -1,0 +1,5 @@
+INFO: started
+ERROR: database failed
+WARNING: low memory
+ERROR: timeout
+INFO: retry
